@@ -4,7 +4,6 @@ description: Youth In Front
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "david-crowell.github.io" # maybe?
 root: /youthinfront-site
-baseurl: /youthinfront-site
 
 # Build settings
 markdown: kramdown
