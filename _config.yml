@@ -3,6 +3,7 @@ email: youthinfront@mit.edu
 description: Youth In Front
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "david-crowell.github.io/youthinfront-site/" # maybe?
+root: /youthinfront-site
 
 # Build settings
 markdown: kramdown
